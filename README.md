@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Chacky1
+- 👀 I’m interested in Web development, cloud functionalities and cybersecurity.
+- 🌱 I’m currently learning how to manage a backend with a serverless architecture.
+- 📫 You can contact me on LinkedIn by looking for Alban Thaumur.
