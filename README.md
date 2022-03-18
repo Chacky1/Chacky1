@@ -51,9 +51,9 @@ Actually:
 ### 📺 Last Youtube:
 
 <!-- YOUTUBE:START -->
-- [[Projet React] Utiliser l'API SNCF pour connaître les prochains départs (1/3)](https://youtu.be/Mh91b0_w-0c)
-- [5 caractéristiques d'un mauvais développeur](https://youtu.be/CSfP2mTD5sg)
-- [Visual Studio Code pour les débutants](https://youtu.be/qKnUNjjvQ-U)
-- [[VSCode + ESLint + Prettier] Comment formater son code en automatique](https://youtu.be/XDlj3fWzho4)
-- [[React - Mini projet] Ajouter de la mémoire à vos composants avec les state](https://youtu.be/Nd0RyDgyyfQ)
+- [[Projet React] Utiliser l&#39;API SNCF pour connaître les prochains départs &lpar;1/3&rpar;](https://www.youtube.com/watch?v=Mh91b0_w-0c)
+- [5 caractéristiques d&#39;un mauvais développeur](https://www.youtube.com/watch?v=CSfP2mTD5sg)
+- [Visual Studio Code pour les débutants](https://www.youtube.com/watch?v=qKnUNjjvQ-U)
+- [[VSCode + ESLint + Prettier] Comment formater son code en automatique](https://www.youtube.com/watch?v=XDlj3fWzho4)
+- [[React - Mini projet] Ajouter de la mémoire à vos composants avec les state](https://www.youtube.com/watch?v=Nd0RyDgyyfQ)
 <!-- YOUTUBE:END -->
