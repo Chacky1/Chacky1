@@ -1,6 +1,15 @@
-- 👋 Hi, I’m Alban Thaumur
-- 👀 I’m interested in Web development, cloud functionalities and cybersecurity.
-- 🌱 I’m currently learning how to manage a backend with a serverless architecture.  
+# Alban Thaumur
+I'm Alban from France, living in Strasbourg, FullStack developper and Freelance, I create videos and online courses to help people in getting better with web development.. 
+<br>
+<!--
+**Chacky1/Chacky1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+-->
+Actually:
+
+- 🔭 I’m currently working at Wild Code School with a SNCF crew ...
+- 🌱 I’m currently learning amazing things on the backend side ...
+- 👯 I help people to be programmers and feelancers ...
+- ⚡ Fun fact : I play the saxophone and I really enjoy simulation games ...
 <br>
 
 
@@ -15,7 +24,7 @@
 <img align="left" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px" alt="MySQL" />
 <img align="left" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" style="padding-right:10px" alt="Mongo DB" />
 <img align="left" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px" alt="git icon" />  
-<br>
+<br><br>
 
 
 ### GitHub Stats
@@ -35,3 +44,10 @@
 &nbsp;&nbsp;
 [![img_contact](./img/globe-light.svg)](https://www.malt.fr/profile/albanthaumur#gh-light-mode-only)
 [![img_contact](./img/globe-dark.svg)](https://www.malt.fr/profile/albanthaumur#gh-dark-mode-only)
+<br>
+
+
+### 📺 Last Youtube:
+
+<!-- YOUTUBE:START -->
+<!-- YOUTUBE:END -->
