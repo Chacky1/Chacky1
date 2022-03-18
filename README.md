@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Alban Thaumur
 - 👀 I’m interested in Web development, cloud functionalities and cybersecurity.
 - 🌱 I’m currently learning how to manage a backend with a serverless architecture.  
-
+<br>
 
 
 ### Languages and tools
@@ -15,12 +15,12 @@
 <img align="left" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px" alt="MySQL" />
 <img align="left" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" style="padding-right:10px" alt="Mongo DB" />
 <img align="left" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px" alt="git icon" />  
-
+<br>
 
 
 ### GitHub Stats
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Chacky1)](https://github.com/anuraghazra/github-readme-stats)  
-
+<br>
 
 
 ### Connect with me:
