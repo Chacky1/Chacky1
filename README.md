@@ -1,5 +1,5 @@
 # Alban Thaumur
-I'm Alban from France, living in Strasbourg, FullStack developper and Freelance, I create videos and online courses to help people in getting better with web development.. 
+I'm Alban from France, living in Strasbourg, FullStack developper and Freelance, I create videos and online courses to help people in getting better with web development.
 <br>
 <!--
 **Chacky1/Chacky1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -10,7 +10,7 @@ Actually:
 - 🌱 I’m currently learning amazing things on the backend side ...
 - 👯 I help people to be programmers and feelancers ...
 - ⚡ Fun fact : I play the saxophone and I really enjoy simulation games ...
-<br>
+
 
 
 ### Languages and tools
@@ -44,6 +44,7 @@ Actually:
 &nbsp;&nbsp;
 [![img_contact](./img/globe-light.svg)](https://www.malt.fr/profile/albanthaumur#gh-light-mode-only)
 [![img_contact](./img/globe-dark.svg)](https://www.malt.fr/profile/albanthaumur#gh-dark-mode-only)
+<br>
 <br>
 
 
