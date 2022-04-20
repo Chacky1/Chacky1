@@ -51,9 +51,9 @@ Actually:
 ### 📺 Last Youtube:
 
 <!-- YOUTUBE:START -->
+- [[Node.js / Typescript] Créer une API REST simple et complète avec Express et MySQL](https://www.youtube.com/watch?v=g9OdfzGrjiM)
 - [[Node.js] Communiquer avec une base de données grâce à Docker](https://www.youtube.com/watch?v=yR9od7iTAfE)
 - [[Node.js] Démarrer avec Express sans être un expert Javascript](https://www.youtube.com/watch?v=iuiwckN5rAc)
 - [[Projet React] Utiliser l&#39;API SNCF pour connaître les prochains départs &lpar;3/3&rpar;](https://www.youtube.com/watch?v=B2c4nhhfusA)
 - [[Projet React] Utiliser l&#39;API SNCF pour connaître les prochains départs &lpar;2/3&rpar;](https://www.youtube.com/watch?v=rHNJZc1IH1o)
-- [[Projet React] Utiliser l&#39;API SNCF pour connaître les prochains départs &lpar;1/3&rpar;](https://www.youtube.com/watch?v=Mh91b0_w-0c)
 <!-- YOUTUBE:END -->
