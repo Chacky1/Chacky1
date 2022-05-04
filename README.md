@@ -51,9 +51,9 @@ Actually:
 ### 📺 Last Youtube:
 
 <!-- YOUTUBE:START -->
+- [3 plateformes pour devenir un meilleur développeur web en 2022 &lpar;+1 bonus&rpar;](https://www.youtube.com/watch?v=2b5wXpWZ3lw)
 - [[Codingame] Lancez vous sur le Spring Challenge 2022 !](https://www.youtube.com/watch?v=kDC9_mb5Cko)
 - [[Node.js / Typescript] Créer une API REST simple et complète avec Express et MySQL](https://www.youtube.com/watch?v=g9OdfzGrjiM)
 - [[Node.js] Communiquer avec une base de données grâce à Docker](https://www.youtube.com/watch?v=yR9od7iTAfE)
 - [[Node.js] Démarrer avec Express sans être un expert Javascript](https://www.youtube.com/watch?v=iuiwckN5rAc)
-- [[Projet React] Utiliser l&#39;API SNCF pour connaître les prochains départs &lpar;3/3&rpar;](https://www.youtube.com/watch?v=B2c4nhhfusA)
 <!-- YOUTUBE:END -->
