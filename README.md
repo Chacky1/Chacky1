@@ -51,9 +51,9 @@ Actually:
 ### 📺 Last Youtube:
 
 <!-- YOUTUBE:START -->
+- [3 bonnes raisons d&#39;adopter Typescript !](https://www.youtube.com/watch?v=DLHqf22fO10)
 - [[Express] Créer un CRUD simple avec MongoDB en 2022](https://www.youtube.com/watch?v=uZAhudpPrn4)
 - [[Design Patterns] Apprenez à architecturer une application simplement avec du MVC !](https://www.youtube.com/watch?v=R2UDpVoOrfc)
 - [[Projet Javascript Débutant] Créer une calculatrice de pourboire - Frontend Mentor](https://www.youtube.com/watch?v=AlWl8IhzzZw)
 - [3 plateformes pour devenir un meilleur développeur web en 2022 &lpar;+1 bonus&rpar;](https://www.youtube.com/watch?v=2b5wXpWZ3lw)
-- [[Codingame] Lancez vous sur le Spring Challenge 2022 !](https://www.youtube.com/watch?v=kDC9_mb5Cko)
 <!-- YOUTUBE:END -->
