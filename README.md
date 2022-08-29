@@ -51,9 +51,9 @@ Actually:
 ### 📺 Last Youtube:
 
 <!-- YOUTUBE:START -->
+- [La mort de Heroku 😵](https://www.youtube.com/watch?v=foNcSk-dQC0)
 - [Visual Studio Code et Typescript](https://www.youtube.com/watch?v=-TwcdyVU4Os)
 - [Pourquoi utiliser Docker ?](https://www.youtube.com/watch?v=61iKlU_XHzY)
 - [3 bonnes raisons d&#39;adopter Typescript !](https://www.youtube.com/watch?v=DLHqf22fO10)
 - [[Express] Créer un CRUD simple avec MongoDB en 2022](https://www.youtube.com/watch?v=uZAhudpPrn4)
-- [[Design Patterns] Apprenez à architecturer une application simplement avec du MVC !](https://www.youtube.com/watch?v=R2UDpVoOrfc)
 <!-- YOUTUBE:END -->
