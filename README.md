@@ -51,9 +51,9 @@ Actually:
 ### 📺 Last Youtube:
 
 <!-- YOUTUBE:START -->
+- [Le HTTPS expliqué](https://www.youtube.com/watch?v=YZipJx5PIYU)
 - [L&#39;intelligence artificielle au service du développeur](https://www.youtube.com/watch?v=efOkur1IazI)
 - [[Typescript] Comment cibler une version de Javascript précise ?](https://www.youtube.com/watch?v=wqACLnr1kRc)
 - [La mort de Heroku 😵](https://www.youtube.com/watch?v=foNcSk-dQC0)
 - [Visual Studio Code et Typescript](https://www.youtube.com/watch?v=-TwcdyVU4Os)
-- [Pourquoi utiliser Docker ?](https://www.youtube.com/watch?v=61iKlU_XHzY)
 <!-- YOUTUBE:END -->
