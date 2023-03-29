@@ -51,9 +51,9 @@ Actually:
 ### 📺 Last Youtube:
 
 <!-- YOUTUBE:START -->
+- [Ne laissez plus React vous dompter !](https://www.youtube.com/watch?v=y37_hqytne0)
 - [Découverte du design pattern proxy avec Typescript](https://www.youtube.com/watch?v=6UBC2HhrrVY)
 - [Le HTTPS expliqué](https://www.youtube.com/watch?v=YZipJx5PIYU)
 - [L&#39;intelligence artificielle au service du développeur](https://www.youtube.com/watch?v=efOkur1IazI)
 - [[Typescript] Comment cibler une version de Javascript précise ?](https://www.youtube.com/watch?v=wqACLnr1kRc)
-- [La mort de Heroku 😵](https://www.youtube.com/watch?v=foNcSk-dQC0)
 <!-- YOUTUBE:END -->
