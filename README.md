@@ -51,9 +51,9 @@ Actually:
 ### 📺 Last Youtube:
 
 <!-- YOUTUBE:START -->
+- [APIs gratuites - 4 ressources pour vos projets](https://www.youtube.com/watch?v=aj2fQd6sqj8)
 - [Découverte du framework AdonisJS](https://www.youtube.com/watch?v=pKCbs5zVg3c)
 - [J&#39;automatise Instagram et LinkedIn](https://www.youtube.com/watch?v=gma1ue1jArE)
 - [Live : Projet d&#39;API Nest avec tests et pipelines CI/CD automatisées - Assistant du MJ du Loup Garou](https://www.youtube.com/watch?v=pq_fTse667c)
 - [Ne laissez plus React vous dompter !](https://www.youtube.com/watch?v=y37_hqytne0)
-- [Découverte du design pattern proxy avec Typescript](https://www.youtube.com/watch?v=6UBC2HhrrVY)
 <!-- YOUTUBE:END -->
