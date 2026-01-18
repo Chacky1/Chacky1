@@ -51,9 +51,9 @@ Actually:
 ### 📺 Last Youtube:
 
 <!-- YOUTUBE:START -->
+- [MCP : J&#39;ai connecté Claude à tous mes outils &lpar;et ça change tout&rpar;](https://www.youtube.com/watch?v=o3NBnIcgvXg)
 - [APIs gratuites - 4 ressources pour vos projets](https://www.youtube.com/shorts/aj2fQd6sqj8)
 - [Découverte du framework AdonisJS](https://www.youtube.com/shorts/pKCbs5zVg3c)
 - [J&#39;automatise Instagram et LinkedIn](https://www.youtube.com/shorts/gma1ue1jArE)
 - [Live : Projet d&#39;API Nest avec tests et pipelines CI/CD automatisées - Assistant du MJ du Loup Garou](https://www.youtube.com/watch?v=pq_fTse667c)
-- [Ne laissez plus React vous dompter !](https://www.youtube.com/watch?v=y37_hqytne0)
 <!-- YOUTUBE:END -->
