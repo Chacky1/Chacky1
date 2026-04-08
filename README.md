@@ -51,9 +51,9 @@ Actually:
 ### 📺 Last Youtube:
 
 <!-- YOUTUBE:START -->
+- [Ton site est invisible pour ChatGPT — je te montre pourquoi](https://www.youtube.com/shorts/c4_VJIJ1J3I)
 - [J&#39;ai automatisé 80% de mon workflow YouTube avec l&#39;IA](https://www.youtube.com/watch?v=vqjWoB6fvP4)
 - [Claude Code dans mon second cerveau : je ne fais plus mon administratif moi-même](https://www.youtube.com/watch?v=AFPxq0xEIjg)
 - [⚠️ URGENT : Ma dernière vidéo MCP a une FAILLE de sécurité &lpar;corrige ça MAINTENANT&rpar;](https://www.youtube.com/watch?v=ca3-fQRzevU)
 - [Claude Mobile + MCPs : comment j&#39;ai débloqué l&#39;IA sur mon téléphone](https://www.youtube.com/watch?v=D6NipcW-Pj8)
-- [MCP : J&#39;ai connecté Claude à tous mes outils &lpar;et ça change tout&rpar;](https://www.youtube.com/watch?v=o3NBnIcgvXg)
 <!-- YOUTUBE:END -->
